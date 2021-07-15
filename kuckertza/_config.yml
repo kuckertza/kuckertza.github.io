@@ -1,0 +1,55 @@
+# Site settings
+title: Anne Kuckertz
+email: kuckertza@gmail.com
+url: https://github.com/jeromelachaud/freelancer-theme
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "Anne, Kuckertz, developer, programmer, researcher, integrated, systems"
+skills: "Computer Science - Research - Medical Devices"
+meta_author: Kuckertz Anne
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 828282 #80B3FF
+  primary-rgb: "146,203,255" #"128,179,255"
+  secondary: 525151 #FD6E8A
+  secondary-dark: 4B4B4B #A2122F
+
+# Footer settings
+footer:
+  location: Location
+  social: Around the Web
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/kuckertza
+  - title: linkedin
+    url: https://www.linkedin.com/in/anne-kuckertz/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
