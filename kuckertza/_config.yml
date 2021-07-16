@@ -30,10 +30,10 @@ color:
   secondary: 525151 #FD6E8A
   secondary-dark: 4B4B4B #A2122F
 
-# Footer settings
-footer:
-  location: Location
-  social: Around the Web
+# # Footer settings
+# footer:
+#   location: Location
+#   social: Around the Web
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
