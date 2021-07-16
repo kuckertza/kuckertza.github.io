@@ -19,7 +19,7 @@ $(function() {
             }
             $.ajax({
                 url: "https://formspree.io/f/mgerleag",
-                type: "POST",
+                method: "POST",
                 data: {
                     name: name,
                     phone: phone,
