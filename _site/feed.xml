@@ -115,39 +115,6 @@
       
     </entry>
   
-    <entry>
-      <title type="html">Project 1</title>
-      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Project 1" />
-      <published>2014-07-18T00:00:00-05:00</published>
-      <updated>2014-07-18T00:00:00-05:00</updated>
-      <id>https://github.com/jeromelachaud/freelancer-theme/project-1</id>
-      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
   
     <entry>
       <title type="html">Project 1</title>
@@ -182,6 +149,7 @@
       
       
     </entry>
+  
   
     <entry>
       <title type="html">Project 3</title>
@@ -218,42 +186,8 @@
     </entry>
   
     <entry>
-      <title type="html">Project 3</title>
-      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Project 3" />
-      <published>2014-07-16T00:00:00-05:00</published>
-      <updated>2014-07-16T00:00:00-05:00</updated>
-      <id>https://github.com/jeromelachaud/freelancer-theme/project-3</id>
-      <content type="html" xml:base="https://github.com/jeromelachaud/freelancer-theme/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 4</title>
-      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Project 4" />
+      <title type="html">Project 5</title>
+      <link href="https://github.com/jeromelachaud/freelancer-theme/" rel="alternate" type="text/html" title="Project 5" />
       <published>2014-07-15T00:00:00-05:00</published>
       <updated>2014-07-15T00:00:00-05:00</updated>
       <id>https://github.com/jeromelachaud/freelancer-theme/project-4</id>
