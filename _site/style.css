@@ -80,7 +80,7 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #525151;
-    background-color: #fff;
+    background-color: #000000;
 }
 
 .img-centered {
@@ -89,8 +89,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #828282;
+    color: #000000;
+    background: #000000;
 }
 
 header .container {
