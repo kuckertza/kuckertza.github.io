@@ -468,6 +468,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
+    color: #FFF;
     background-color: #{{ site.color.secondary }};
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
