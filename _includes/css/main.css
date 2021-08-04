@@ -369,7 +369,8 @@ footer .footer-above {
 }
 
 footer .footer-col {
-    margin-bottom: 50px;
+    margin-bottom: 25px;
+    margin-above: 25px;
 }
 
 footer .footer-below {
