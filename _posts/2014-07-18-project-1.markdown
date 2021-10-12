@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: coming-soon.jpg
+img: sybbure_docoolstuff_logolightbg.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Will use this area of the page to describe my project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: As a part of the Marasco Biomedical Library, I am developing a portable, noninvasive physiological sensor to detect markers of disease in low resource settings. I’m designing microcontroller firmware (in C++), a CAD 3D printed test environment, power system, and hardware filters for signal processing for a working prototype. I also write code (C++, Matlab) to observe, collect, and analyze serial data to give simple readouts. Lastly, I’m maintaining and LTSpice model and git repository for the project.
 ---
