@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: coming-soon.jpg
+date: 2014-07-14
+img: website.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Will use this area of the page to describe my project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I coded this website using a jekyll template which employs Ruby, JavaScript, HTML, and CSS. It is hosted though <a href="https://github.com/kuckertza/kuckertza.github.io">GitHub Pages</a> and was a fun way for me to learn about web design.
 ---

@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: 100_green.png
+img: changePPLogo.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: I created a game that has players try to guess the billboard rankings of songs. The backend uses Node.js with a cheerio framework to webscrape the top 100 songs from https://www.billboard.com/charts/hot-100 and creates an API to store the songs. It connects to a react native frontend using an axios framework. The front end is still in progress.
+description: I'm a software developer for the student run Vanderbilt organization called <a href="https://www.changeplusplus.org/">Change++</a>. This club codes projects for nonprofits, contributing to many industries such as medicine, education, firefighting, etc. I work on an eight person team designing a virtual reality game in Unity and C# for the company <a href="https://www.codeyourchances.com/">Code Your Chances</a>, which is a non-profit focused on getting young girls interested in computer science. 
 ---

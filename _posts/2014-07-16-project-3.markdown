@@ -2,10 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: coming-soon.jpg
+img: 100_green.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Will use this area of the page to describe my project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I created a <a href="https://github.com/kuckertza/Top100Game">game</a> that has players try to guess the billboard rankings of songs. The backend uses Node.js with a cheerio framework to webscrape the top <a href="https://www.billboard.com/charts/hot-100">100 billboard chart</a> songs and creates an API to store the songs. It connects to a react native frontend using an axios framework. The front end is still in progress.
 ---
