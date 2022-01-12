@@ -41,6 +41,7 @@ social:
     url: http://github.com/kuckertza
   - title: linkedin
     url: https://www.linkedin.com/in/anne-kuckertz/
+    
 
 # Build settings
 markdown: kramdown
