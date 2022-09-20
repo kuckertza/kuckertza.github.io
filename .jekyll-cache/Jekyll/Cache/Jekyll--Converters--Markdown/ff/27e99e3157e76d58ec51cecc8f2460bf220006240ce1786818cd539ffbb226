@@ -1,0 +1,12 @@
+I"¦<!-- ---
+layout: default
+modal-id: 6
+date: 2014-07-13
+img: website.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: I coded this website using a jekyll template which employs Ruby, JavaScript, HTML, and CSS. It is hosted though <a href="https://github.com/kuckertza/kuckertza.github.io">GitHub Pages</a> and was a fun way for me to learn about web design.
+--- -->
+:ET

@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-13
-img: website.png
+date: 2014-07-14
+img: calc.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: I coded this website using a jekyll template which employs Ruby, JavaScript, HTML, and CSS. It is hosted though <a href="https://github.com/kuckertza/kuckertza.github.io">GitHub Pages</a> and was a fun way for me to learn about web design.
+description: I created a calculator program using a binary tree as the underlying data structure to make simple use of prefix, postfix, and infix expressions. I employed multiple design patterns to make for easy modularity and exstensiblility. This includes the bridge, command, reactor, and state pattern, amongst many others. The programs runs in verbose and succint mode and is written in C++. I also made use of Google Test Suite to allow automatic testing. I wrote this program for a software design class and as such, per class guidelines, it is not public. Private access can be provided upon request.
 ---
+
+

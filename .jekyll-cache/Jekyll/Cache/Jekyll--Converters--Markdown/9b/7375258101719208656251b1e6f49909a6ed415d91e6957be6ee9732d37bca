@@ -1,0 +1,13 @@
+I"H<!-- ---
+I created a basic <a href="https://github.com/kuckertza/EigenVector_Facial_Recognition_Project/blob/master/Facial_Recognition.ipynb">facial recognition program </a> by employing the principles of linear algebra. Using images from the <a href="https://paperswithcode.com/dataset/extended-yale-b-1">Extended Yale B Face Database</a>, I performed principle component analysis, calculating each image's eigen values and eigen vectors and storing the data. I then randomly selected an image and projected it into the eigen space previously calculated. I then calculated the euclidean distance between the randomly selected image and the previously analyzed images. The smallest euclidean distance represents the image in the previously analyzed data that is most similar to the randomly selected image and is chosen as the closest match.
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: calc.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: I created a calculator program using a binary tree as the underlying data structure to make simple use of prefix, postfix, and infix expressions. I employed multiple design patterns to make for easy modularity and exstensiblility. This includes the bridge, command, reactor, and state pattern, amongst many others. The programs runs in verbose and succint mode and is written in C++. I also made use of Google Test Suite to allow automatic testing. I wrote this program for a software design class and as such, per class guidelines, it is not public. Private access can be provided upon request.
+--- -->
+:ET

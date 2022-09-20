@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: calc.png
+date: 2014-07-15
+img: bloch.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: I created a calculator program using a binary tree as the underlying data structure to make simple use of prefix, postfix, and infix expressions. I employed multiple design patterns to make for easy modularity and exstensiblility. This includes the bridge, command, reactor, and state pattern, amongst many others. The programs runs in verbose and succint mode and is written in C++. I also made use of Google Test Suite to allow automatic testing. I wrote this program for a software design class and as such, per class guidelines, it is not public. Private access can be provided upon request.
+description: As a part of the <a href="https://dabh.io/">Hyde Quantum Computing Science laboratory</a>, I am collaborating on a tunable C++ framework to explore the use of classical machine learning for optimizing quantum computing algorithms. I am utilizing linear algebra and numerical algorithms to find novel quantum operators and contributing to source code dependent on Boost libraries and the Intel Math Kernel Library (MKL).
 ---
